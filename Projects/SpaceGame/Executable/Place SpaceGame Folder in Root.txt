@@ -1,0 +1,2 @@
+-Place pictures folder into the root of your drive to display pictures
+-Run the executable JAR file to play the game!
